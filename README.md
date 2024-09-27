@@ -10,6 +10,7 @@ Financial Metrics:
 - Customer Satisfaction Score (CSS): 3.19
 -Weekly Revenue Trends:
 - Revenue fluctuated between $2M to $3M per week from Jan 2023 to Oct 2023.
+- 
 -Revenue by Demographics:
 - Age Group: Highest revenue from 40-50 age group ($25M).
  - 30-40 age group: $11M, 20-30 age group: $5M.
