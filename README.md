@@ -8,18 +8,21 @@ Financial Metrics:
 - Transaction Amount: $45M
 - Total Income: $576M
 - Customer Satisfaction Score (CSS): 3.19
--Weekly Revenue Trends:
+  
+Weekly Revenue Trends:
 - Revenue fluctuated between $2M to $3M per week from Jan 2023 to Oct 2023.
-- 
--Revenue by Demographics:
+ 
+Revenue by Demographics:
 - Age Group: Highest revenue from 40-50 age group ($25M).
  - 30-40 age group: $11M, 20-30 age group: $5M.
 - Top States: Texas ($7M), New York and California ($6M each).
 - Marital Status: Married customers generate $28M, Single $23M.
+  
 -Revenue Segmentation:
 - Income Group: High-income ($29M), Medium-income ($16M), Low-income ($10M).
 -Education Level:
 - Graduates: $22M, High School: $11M, Doctorate: $4M.
+  
 Job Type Breakdown:
 - White-collar jobs: $10M in revenue,
 - Self-employed customers: $8M in revenue.
