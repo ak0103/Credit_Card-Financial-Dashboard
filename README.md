@@ -2,7 +2,7 @@
 
 
 
-Credit Card Customer Report - Summary
+# Credit Card Customer Report - Summary
 Financial Metrics:
 - Total Revenue: $55M
 - Transaction Amount: $45M
@@ -28,7 +28,7 @@ Job Type Breakdown:
 - Self-employed customers: $8M in revenue.
 
   
-Credit Card Transaction Report - Summary
+# Credit Card Transaction Report - Summary
 Financial Overview:
 - Total Revenue: $55M
 - Transaction Amount: $45M
